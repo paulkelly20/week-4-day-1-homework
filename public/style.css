@@ -1,0 +1,14 @@
+body {background-color: ivory;}
+
+h1 {text-align: center;}
+
+ul{margin-left: 250px;
+  font-size: 30px;}
+
+  li {
+    color: blue;
+    font-size: 32px;
+    display: inline;
+    text-transform: capitalize;
+    width: 300px;
+  }
